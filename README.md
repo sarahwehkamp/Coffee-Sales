@@ -45,7 +45,9 @@ Example: Here are a couple of questions that can be directly answered using the 
 * **Size:** 1.0 and 2.5 kg
 
 1.  **🤔 What were the total sales (in USD) of 'Medium' roast coffee in '1.0 kg' and '2.5 kg' bags to customers between January and April 2022 in the 'United States'?** (This can be answered by observing the 'Sales by Country' chart for the 'United States' while the specified filters for date, roast type, and size are active.)
+
 The answer would be: The total revenue generated from the sale of 'Medium' roast coffee in '1.0 kg' and '2.5 kg' package sizes within the United States during the specified four-month period was \$754. This figure represents the cumulative sales for these product categories within the US market during the analyzed timeframe.
 
 3.  **🏆 Who was the top-spending customer who purchased 'Medium' roast coffee in '1.0 kg' and '2.5 kg' bags between January and April 2022?** (This can be answered by looking at the 'Top 5 Customers' chart while the specified filters for date, roast type, and size are active, and identifying the customer with the highest sales amount.)
+
 The answer would be: Analysis of individual customer purchasing patterns reveals that Mr. Lemuel Rignold exhibited the highest total expenditure on 'Medium' roast coffee in '1.0 kg' and '2.5 kg' package sizes during the period of January to April 2022. This identifies Mr. Rignold as the leading consumer within this particular product segment during the analyzed timeframe.
