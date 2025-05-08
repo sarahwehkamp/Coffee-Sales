@@ -15,7 +15,7 @@ This interactive Excel dashboard provides a visual overview of coffee sales data
 
 **How to Use:**
 
-1.  [⬇️ Download the Excel file](Coffee-Project.xlsx)
+1.  [⬇️ Download the Excel file](https://raw.githubusercontent.com/[sarahwehkamp]/[Coffee-Sales]/main/Coffee-Project.xlsx)
 2.  🖱️ **Open the file in Microsoft Excel.**
 3.  👆 **Interact with the slicers** located at the top right of the dashboard. Click on the desired options within each filter to dynamically update all the charts.
 4.  🔍 **Hover over the data points** in the charts to see specific values.
