@@ -53,3 +53,9 @@ The answer would be: The total revenue generated from the sale of 'Medium' roast
 3.  **🏆 Who was the top-spending customer who purchased 'Medium' roast coffee in '1.0 kg' and '2.5 kg' bags between January and April 2022?** (This can be answered by looking at the 'Top 5 Customers' chart while the specified filters for date, roast type, and size are active, and identifying the customer with the highest sales amount.)
 
 The answer would be: Analysis of individual customer purchasing patterns reveals that Mr. Lemuel Rignold exhibited the highest total expenditure on 'Medium' roast coffee in '1.0 kg' and '2.5 kg' package sizes during the period of January to April 2022. This identifies Mr. Rignold as the leading consumer within this particular product segment during the analyzed timeframe.
+
+---
+
+**Author:** Sarah M Wehkamp 👩‍💻 
+
+[Portfolio](https://lnw26.myportfolio.com) 🌐 | [LinkedIn](https://www.linkedin.com/in/sarah-wehkamp) 💼 | [GitHub](https://github.com/sarahwehkamp) 🐙
