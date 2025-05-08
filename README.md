@@ -12,6 +12,8 @@ This interactive Excel dashboard provides a visual overview of coffee sales data
 * **📈 Total Sales Over Time Chart:** A line chart displaying the total sales amount (in USD) for different coffee bean origins (Arabica, Blends, Decaf, Excelsa, Robusta) across the selected date range. This allows for easy identification of sales trends and seasonality for each origin.
 * **🗺️ Sales by Country Bar Chart:** A horizontal bar chart showing the total sales amount (in USD) for each country (United States, Ireland, United Kingdom) within the selected filters. This provides a clear comparison of market performance.
 * **⭐ Top 5 Customers Bar Chart:** A horizontal bar chart highlighting the top 5 customers based on their total purchase amount (in USD) within the selected filters. This helps identify key customers.
+*  **🛠️ Built with Excel Formulas and Pivot Tables:** The underlying data analysis leverages Excel formulas such as `XLOOKUP`, `INDEX`, and `IF` to extract and calculate key information. This processed data is then used to create dynamic pivot tables and insightful graphics.
+* **📊 Interactive Dashboard:** The final output is presented in an interactive dashboard format, enhanced with slicers for category filtering and a timeline for date-based analysis, allowing for dynamic exploration of the sales data.
 
 **How to Use:**
 
